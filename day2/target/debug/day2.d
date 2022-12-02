@@ -1,0 +1,1 @@
+C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day2\target\debug\day2.exe: C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day2\src\input.txt C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day2\src\main.rs
