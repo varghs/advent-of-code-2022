@@ -1,1 +1,1 @@
-C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day1\target\debug\day1.exe: C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day1\src\input.txt C:\Users\svarg\Documents\Code\Rust\Advent\ of\ Code\day1\src\main.rs
+C:\Users\svarg\Documents\Code\Rust\advent-of-code-2022\day1\target\debug\day1.exe: C:\Users\svarg\Documents\Code\Rust\advent-of-code-2022\day1\src\input.txt C:\Users\svarg\Documents\Code\Rust\advent-of-code-2022\day1\src\main.rs
